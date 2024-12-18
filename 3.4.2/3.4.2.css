@@ -1,0 +1,15 @@
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+
+a:hover {
+    color: purple;
+}
+
+
+div:first-of-type > a {
+    color: gold;
+}
